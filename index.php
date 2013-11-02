@@ -1,7 +1,4 @@
 <?php
-echo 'asd';
-function on other branch
-
-if (This is not the case) {
-what will happen
+function firstfun () {
+echo 'This is first function for git repo..';
 }
